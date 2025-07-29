@@ -1,0 +1,38 @@
+# Rider
+.idea/
+.git
+*.sln.iml
+
+# .NET
+bin/
+obj/
+out/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Visual Studio Code (VS Code kullanıyorsan)
+.vscode/
+
+# Git
+*.orig
+
+# Paketler
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Kullanıcı ayarları ve environment dosyaları
+.env
+*.env
+*.secret
